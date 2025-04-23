@@ -1,0 +1,19 @@
+# Backend
+backend/venv/
+backend/__pycache__/
+backend/*.py[cod]
+backend/.env
+backend/.mypy_cache/
+backend/.pytest_cache/
+backend/*.sqlite3
+
+#Frontend
+frontend/node_modules/
+frontend/.env
+frontend/.env.local
+frontend/dist/
+frontend/build/
+
+# Common
+*.log
+.vscode/
